@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ebus",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ebus (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ebus (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dropdownsearch",
+            "cwd": "packages\\dropdownsearch",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dropdownsearch (profile mode)",
+            "cwd": "packages\\dropdownsearch",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dropdownsearch (release mode)",
+            "cwd": "packages\\dropdownsearch",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "persian_datepicker",
+            "cwd": "packages\\persian_datepicker",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "persian_datepicker (profile mode)",
+            "cwd": "packages\\persian_datepicker",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "persian_datepicker (release mode)",
+            "cwd": "packages\\persian_datepicker",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
